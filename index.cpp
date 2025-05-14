@@ -117,7 +117,7 @@ void urutRating() { // Selection Sort
         
         // Tukar data
         swap(sekarang->judul, maks->judul);
-        swap(sekarang->album, maks->album);2
+        swap(sekarang->album, maks->album);
         swap(sekarang->durasi, maks->durasi);
         swap(sekarang->artis, maks->artis);
         swap(sekarang->genre, maks->genre);
